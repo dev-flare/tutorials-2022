@@ -1,0 +1,17 @@
+{
+  "name": "tutorials-2022",
+  "author": {
+    "name": "gitgitWi",
+    "email": "gitgitWi@gmail.com"
+  },
+  "private": true,
+  "workspaces": {
+    "packages": ["tutorials/*"]
+  },
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
